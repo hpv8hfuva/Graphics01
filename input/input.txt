@@ -1,0 +1,3 @@
+png 200 300 outfilename.png 
+xy 10 20 
+xyrgb 50 50 255 127 0
